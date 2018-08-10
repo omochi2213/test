@@ -3,6 +3,17 @@
     <head>
         <meta charaset="UTF-8">
         <link rel="stylesheet"type="text/css"href="style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('.abc').bxSlider({
+          auto:true,mode:'horizontal',speed:2000,slideWidth:1000
+      });
+    });
+  </script>
     </head>
     <body>
         <div class="A"><img src="4eachblog_logo.jpg"width="20%"></div>
@@ -21,7 +32,14 @@
                 <div class="C">
                     <h1>プログラミングに役立つ書籍</h1>
                     <p>2017年1月15日</p>
-                    <img src="bookstore.jpg"width="100%">
+                    <div class="abc">
+    <div><img src="jQuery_image1.jpg"></div>
+    <div><img src="jQuery_image2.jpg"></div>
+    <div><img src="jQuery_image3.jpg"></div>
+    <div><img src="jQuery_image4.jpg"></div>
+    <div><img src="jQuery_image5.jpg"></div>
+    
+  </div>
                     <p>4eachはインターノウスが提供するオンラインでプログラミングが勉強できるイーラーニングシステムです。</p>
                     <P>記事中身</P>
                     <div class="box">

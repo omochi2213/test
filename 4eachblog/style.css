@@ -1,7 +1,3 @@
-img.A{
-    width:50%;
-    height:50%;
-}
 header{
     background-color:black;
     color:white;
@@ -68,4 +64,8 @@ footer{
 }
 .D h2{
     border-bottom:dotted;
+}
+.abc{
+    height:100%;
+    width:100%;
 }
