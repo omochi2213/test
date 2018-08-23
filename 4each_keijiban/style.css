@@ -1,0 +1,82 @@
+header{
+    background-color:black;
+    width:100%;
+    height:40px;
+    color:white;
+    line-height:40px;
+    
+}
+header ul{
+    list-style:none;
+}
+header ul li{
+    float:left;
+    padding-right:40px;
+}
+h2{
+    border-left:4px solid black;
+    border-bottom:2px solid black;
+    padding-left:10px;
+}
+.left{
+    float:left;
+    width:70%;
+}
+.right{
+    float:right;
+    width:25%;
+    padding-left:50px;
+    padding-top:30px;
+}
+.right ul li{
+    list-style:none;
+    
+}
+.right h3{
+    border-bottom:2px dotted black;
+}
+form{
+    line-height:30px;
+    padding-top:10px;
+    padding-left:20px;
+    width:98%;
+    height:400px;
+    background-color:#EEEEEE;
+}
+.left form h3{
+    margin-left:10px;
+}
+.submit{
+    border-radius:5px;
+    background-color:#DDDDDD;
+}
+main{
+    height:1000px;
+
+}
+footer{
+    background-color:black;
+    width;100%;
+    height:60px;
+    text-align:center;
+}
+.B{
+    clear:both;
+    color:white;
+    line-height:60px;
+}
+.keiji{
+    padding-left:20px;
+    width:98%;
+    height:auto;
+    background-color:#EEEEEE;
+}
+.handlename{
+    font-size:13px;
+
+}
+.keiji h3{
+    
+    border-bottom:1px solid black;
+    width:95%;
+}
