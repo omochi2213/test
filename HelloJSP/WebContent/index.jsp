@@ -7,6 +7,7 @@
 	<title>TEST</title>
 </head>
 <body>
+
 	<form method="post"action="total-out.jsp">
 	<input type="text"name="price">
 	円×
