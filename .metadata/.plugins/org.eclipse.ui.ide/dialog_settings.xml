@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="CleanDialogSettings">
-		<item value="901" key="DIALOG_WIDTH"/>
+		<item value="662" key="DIALOG_WIDTH"/>
 		<item value="true" key="TOGGLE_SELECTED"/>
-		<item value="378" key="DIALOG_HEIGHT"/>
-		<item value="350" key="DIALOG_X_ORIGIN"/>
-		<item value="178" key="DIALOG_Y_ORIGIN"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="1047" key="DIALOG_X_ORIGIN"/>
+		<item value="237" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
 	</section>
 	<section name="SaveAsDialogSettings">
-		<item value="963" key="DIALOG_WIDTH"/>
-		<item value="1|メイリオ|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|メイリオ" key="DIALOG_FONT_NAME"/>
-		<item value="609" key="DIALOG_HEIGHT"/>
-		<item value="-67" key="DIALOG_X_ORIGIN"/>
-		<item value="24" key="DIALOG_Y_ORIGIN"/>
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Yu Gothic UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Yu Gothic UI" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="194" key="DIALOG_X_ORIGIN"/>
+		<item value="89" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

@@ -21,13 +21,11 @@ public class HelloStrutsDAO {
 			}
 		}catch(SQLException e){
 			e.printStackTrace();
-		}
-		try{
+		}try{
 			con.close();
 		}catch(SQLException e){
-			e.printStackTrace();
-		}
+		e.printStackTrace();
+	}
 		return ret;
 	}
-
 }

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="0 個の要素を &apos;ecsite/src/com.internousdev.ecsite.action&apos; にコピー&#x0D;&#x0A;- 宛先要素: &apos;ecsite/src/com.internousdev.ecsite.action&apos;" description="コンパイル単位をコピー" destination="=ecsite/src&lt;com.internousdev.ecsite.action" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1537859204299" units="0" version="1.0"/>
+</session>

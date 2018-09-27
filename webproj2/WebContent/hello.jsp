@@ -4,11 +4,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta  charset="UTF-8">
+<meta charset="UTF-8">
 <title>HelloStruts</title>
 </head>
 <body>
 <h1>HelloStruts2!</h1>
-<br><h3>MySQLと接続できます。</h3>
+<br>
+<h3>MySQLと接続できます。</h3>
 </body>
 </html>

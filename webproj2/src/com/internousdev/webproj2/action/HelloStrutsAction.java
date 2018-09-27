@@ -11,7 +11,8 @@ public class HelloStrutsAction extends ActionSupport{
 			ret=SUCCESS;
 		}else{
 			ret=ERROR;
-		}return ret;
+		}
+		return ret;
 	}
 
 }
